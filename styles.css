@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+
+.card{
+width:300px;
+	padding:20px;
+	background-color:#f4f4f4;
+display:flex;
+	flex-direction:column;
+	justify-items:center;
+	align-items:center;
+	box-shadow:0 0 10px rgba(0,0,0,0.3);
+}
+.card-img{
+	width:100%;
+}
+.buy-now{
+	padding:10px 20px;
+	background-color:orangered;
+	color:white;
+	border:none;
+	border-radius:10px;
+}
